@@ -8,4 +8,4 @@
 * Enumeration 처리 방법, getParameterNames()
 * sendRedirect()을 이용한 검색
 
-2. 회원가입페이지
+2. 회원가입 페이지
